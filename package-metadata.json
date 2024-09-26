@@ -1,0 +1,9 @@
+{
+    "name": "Mi Plugin",
+    "description": "Un plugin de ejemplo para Sublime Text.",
+    "author": "Tu Nombre",
+    "version": "1.0.0",
+    "homepage": "https://github.com/tu_usuario/mi-plugin",
+    "repository": "https://github.com/tu_usuario/mi-plugin.git",
+    "dependencies": []
+}
